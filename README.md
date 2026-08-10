@@ -2,9 +2,9 @@
 
 Học kỳ 3, Năm học: 2025-2026
 
-**Họ tên**: ...
+**Họ tên**: TRẦN QUỐC BẢO 
 
-**MSSV**: ...
+**MSSV**: DC22V7N537
 
 **Lớp HP**: CT275DC01.
 
